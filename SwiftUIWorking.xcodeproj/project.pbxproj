@@ -11,6 +11,7 @@
 		845139852C6B70E7000EC2C6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845139842C6B70E7000EC2C6 /* ContentView.swift */; };
 		845139872C6B70E8000EC2C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845139862C6B70E8000EC2C6 /* Assets.xcassets */; };
 		8451398A2C6B70E8000EC2C6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845139892C6B70E8000EC2C6 /* Preview Assets.xcassets */; };
+		845139912C6B76B6000EC2C6 /* AlamofireView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845139902C6B76B6000EC2C6 /* AlamofireView.swift */; };
 		E6FFF353AD43C77944114C02 /* Pods_SwiftUIWorking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA385CDF764FC5ADA1A50122 /* Pods_SwiftUIWorking.framework */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		845139842C6B70E7000EC2C6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		845139862C6B70E8000EC2C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		845139892C6B70E8000EC2C6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		845139902C6B76B6000EC2C6 /* AlamofireView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamofireView.swift; sourceTree = "<group>"; };
 		957A47B6DDE7EBDAF9DD30EF /* Pods-SwiftUIWorking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftUIWorking.debug.xcconfig"; path = "Target Support Files/Pods-SwiftUIWorking/Pods-SwiftUIWorking.debug.xcconfig"; sourceTree = "<group>"; };
 		C2423E16A8DDEFC5B7595CBF /* Pods-SwiftUIWorking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftUIWorking.release.xcconfig"; path = "Target Support Files/Pods-SwiftUIWorking/Pods-SwiftUIWorking.release.xcconfig"; sourceTree = "<group>"; };
 		FA385CDF764FC5ADA1A50122 /* Pods_SwiftUIWorking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftUIWorking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,6 +64,7 @@
 				845139842C6B70E7000EC2C6 /* ContentView.swift */,
 				845139862C6B70E8000EC2C6 /* Assets.xcassets */,
 				845139882C6B70E8000EC2C6 /* Preview Content */,
+				845139902C6B76B6000EC2C6 /* AlamofireView.swift */,
 			);
 			path = SwiftUIWorking;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				845139852C6B70E7000EC2C6 /* ContentView.swift in Sources */,
 				845139832C6B70E7000EC2C6 /* SwiftUIWorkingApp.swift in Sources */,
+				845139912C6B76B6000EC2C6 /* AlamofireView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
